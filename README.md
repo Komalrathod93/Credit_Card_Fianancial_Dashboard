@@ -6,13 +6,13 @@ The dashboard provides actionable insights to support business decision-making.
 
 🎯 Objectives
 
-Analyze total revenue and interest earned
+-Analyze total revenue and interest earned
 
-Identify high-value customers
+-Identify high-value customers
 
-Understand spending patterns across card types and transaction modes
+-Understand spending patterns across card types and transaction modes
 
-Track weekly and quarterly financial performance
+-Track weekly and quarterly financial performance
 
 📈 Key Insights
 
@@ -39,6 +39,8 @@ Card category performance (Blue, Silver, Gold, Platinum)
 Transaction analysis by swipe, chip, and online modes
 
 🛠️ Tools & Skills Used
+
+SQL
 
 Power BI
 
