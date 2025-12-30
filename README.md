@@ -7,7 +7,7 @@ The dashboard provides actionable insights to support business decision-making.
 -Analyze total revenue and interest earned
 -Identify high-value customers
 -Understand spending patterns across card types and transaction modes
--Track weekly and quarterly financial performance
+-Track weekly and quarterly financial performance 
 
 📈 Key Insights
 -Total Revenue: 55.3M
