@@ -1,4 +1,5 @@
 Credit Card Financial Dashboard | Power BI
+
 📌 Project Overview
 
 This project analyzes credit card customer and transaction data using Power BI to identify revenue trends, customer segments, and transaction behavior.
